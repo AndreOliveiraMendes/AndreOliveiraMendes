@@ -16,6 +16,8 @@ I enjoy **learning new things** and expanding my knowledge.
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://img.shields.io)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://img.shields.io)
 [![Regex](https://img.shields.io/badge/Regex-323330?style=flat-square&logo=regex&logoColor=white)](https://img.shields.io)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://img.shields.io)
+[![Jinja](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=jinja&logoColor=white)](https://img.shields.io)
 
 ---
 
