@@ -6,9 +6,6 @@ I enjoy **learning new things** and expanding my knowledge.
 
 📄 [Currículo Lattes](http://lattes.cnpq.br/7780103076826692)
 
-[![Repos Badge](https://badges.pufler.dev/repos/AndreOliveiraMendes)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/AndreOliveiraMendes)](https://badges.pufler.dev)
-
 ---
 
 ## 🛠️ Languages and Tools
