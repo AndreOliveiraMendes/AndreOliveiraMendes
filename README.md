@@ -1,6 +1,6 @@
 # Hi there, I'm Andre 👋
 
-I'm an **Electrical Engineering graduate** and currently working as a **teaching assistant** (_auxiliar de docente_) at FATEC-OURINHOS.  
+I'm an **Electrical Engineering graduate**.  
 
 I enjoy **learning new things** and expanding my knowledge.
 
